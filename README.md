@@ -3,8 +3,9 @@
 <a href="#">
 	<img src="https://views.whatilearened.today/views/github/dikamahard/FaceCompareLibrary.svg" width="80px" height="28px" alt="View" />    
   </a> 
-	[![](https://jitpack.io/v/dikamahard/FaceCompareLibrary/month.svg)]   
+	
 </p>
+[![](https://jitpack.io/v/dikamahard/FaceCompareLibrary/month.svg)]   
 
 
 

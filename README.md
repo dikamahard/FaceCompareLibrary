@@ -4,7 +4,7 @@
 	<img src="https://views.whatilearened.today/views/github/dikamahard/FaceCompareLibrary.svg" width="80px" height="28px" alt="View" />    
   </a>
 <a href="#">
-	[![](https://jitpack.io/v/dikamahard/FaceCompareLibrary/month.svg)](https://jitpack.io/#dikamahard/FaceCompareLibrary)    
+	[![Downloads](https://jitpack.io/v/dikamahard/FaceCompareLibrary/month.svg)](https://jitpack.io/#dikamahard/FaceCompareLibrary)    
   </a>
 </p>
 an Andorid library that provide a simple API to compare the similarity between 2 faces from bitmap. This can be implemented to a face recognition system, face authentication, face matching, and many more that needed face comparison technique. This library implemented Google MLKit to detect faces and MobileFaceNet CNN model to compare faces

@@ -1,10 +1,5 @@
 # Face Compare Library
-<p align="left">
-<a href="#">
-	<img src="https://views.whatilearened.today/views/github/dikamahard/FaceCompareLibrary.svg" width="80px" height="18px" alt="View" />    
-  </a> 
-</p>
-
+<img src="https://views.whatilearened.today/views/github/dikamahard/FaceCompareLibrary.svg" width="80px" height="20px" alt="View" />    
 [![](https://jitpack.io/v/dikamahard/FaceCompareLibrary/month.svg)](https://jitpack.io/#dikamahard/FaceCompareLibrary)   
 
 
